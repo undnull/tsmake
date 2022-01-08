@@ -1,0 +1,14 @@
+{
+    "name": "tsmake",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/main.js",
+    "scripts": {
+        "main": "node dist/main.js"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^4.5.4"
+    }
+}
